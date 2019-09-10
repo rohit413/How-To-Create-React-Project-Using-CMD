@@ -31,4 +31,6 @@ npm start
 This will opens up the react application in a new tab of our browser with the below URL.
 
 http://localhost:3000
+
+
 TechoTip: We recommend using Visual Studio code as the source-code editor for working with React projects.
